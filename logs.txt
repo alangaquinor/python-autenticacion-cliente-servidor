@@ -1,0 +1,4 @@
+[2025-06-06 15:53:13] ('127.0.0.1', 51632) - Inicio de sesiï¿½n - Acceso concedido
+[2025-06-06 15:53:56] ('127.0.0.1', 51635) - Registro - Usuario registrado con ï¿½xito
+[2025-06-06 15:59:08] ('127.0.0.1', 51657) - Registro - Usuario registrado con ï¿½xito
+[2025-06-06 16:52:22] ('127.0.0.1', 54386) - Registro - Usuario registrado con éxito (UDP)
