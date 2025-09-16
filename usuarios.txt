@@ -1,0 +1,4 @@
+alan:clave123
+juan:pass456
+admin:adminpass
+liz:f2c745228b7caea03afe7762b912ab231f591345de10cdae187895e51ce6ea81
